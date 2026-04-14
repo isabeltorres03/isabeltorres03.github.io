@@ -23,7 +23,7 @@ repository               : "isabeltorres03/isabeltorres03.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_7705.jpeg"
+  avatar           : "/images/IMG_7705.jpeg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate studying Environmental Life Science in the School of Life Sciences"
